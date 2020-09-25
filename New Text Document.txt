@@ -1,0 +1,3 @@
+open Folder env
+change file pyvenv.cfg
+change to your repository python look at yours path 
